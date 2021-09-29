@@ -1,0 +1,4 @@
+
+	{
+		int size;
+		cin >> size;
